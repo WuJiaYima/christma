@@ -1,27 +1,38 @@
-body {
-background:url(../shengdan/photo/f4dad8bbc890177d95055488a2848295.jpg);
-background-size: cover;
+.all {
+    position: absolute;
+    width: 1000px;
+    left: 400px;
+    right: 400px;
+    background-color: rgb(102, 160, 102);
+    
 }
-.a {
-    padding-left: 500px;
-    color: brown;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 50px;
-    text-shadow:o.1em 0.1em;
-}
-.b {
-    padding-left: 900px;
+#relative {
+    position: relative;
+    width: 1800px;
 }
 
-.c {
-    float: left;
-    width: 400px;
-    font-size: 30px;
-    color: darkcyan;
+.no1 {
+    border: 5px double purple;
+    background-color: navajowhite;
 }
-.d {
-    color: chocolate;
-    font-size: 30px;
+
+
+.jj {
+    color: crimson;
+    font-size: 50px;
+    padding-left: 370px;
+}
+
+
+.main {
+    border: coral;
+}
+img {
+    width: 150px;
+    height: 150px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
     float: right;
-    width: 400px;
+    clear: both;
 }
