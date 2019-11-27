@@ -36,3 +36,6 @@ img {
     float: right;
     clear: both;
 }
+a {
+    font-size: 30px;
+}
